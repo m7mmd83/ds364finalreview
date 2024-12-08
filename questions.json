@@ -1,0 +1,1034 @@
+[
+  {
+    "question": "Integrity refers to:",
+    "options": [
+      {
+        "text": "Refers to the availability of the data for as long as their current and future users require them",
+        "correct": false
+      },
+      {
+        "text": "The authenticity of data—that they have not been manipulated, forged, or substituted",
+        "correct": true
+      },
+      {
+        "text": "Accessibility where we can locate and use the data in the future",
+        "correct": false
+      },
+      {
+        "text": "Authorizing/controlling access to the database",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Direct benefits to data creators include:",
+    "options": [
+      {
+        "text": "Managing text data only",
+        "correct": false
+      },
+      {
+        "text": "Reduce data quality",
+        "correct": false
+      },
+      {
+        "text": "Increase curation costs",
+        "correct": false
+      },
+      {
+        "text": "Improved quality of data",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Longevity means:",
+    "options": [
+      {
+        "text": "Accessibility requires that we can locate and use the data in the future in a way that is acceptable to their designated community",
+        "correct": false
+      },
+      {
+        "text": "Preservation through file formats",
+        "correct": false
+      },
+      {
+        "text": "The authenticity of data—that they have not been manipulated",
+        "correct": false
+      },
+      {
+        "text": "The availability of the data for as long as their current and future users require them",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "One category of significant properties of digital objects and databases includes:",
+    "options": [
+      {
+        "text": "System Security",
+        "correct": false
+      },
+      {
+        "text": "Data origin",
+        "correct": false
+      },
+      {
+        "text": "Digital born",
+        "correct": false
+      },
+      {
+        "text": "Structure",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The PREMIS data model defines:",
+    "options": [
+      {
+        "text": "SIP and DIP",
+        "correct": false
+      },
+      {
+        "text": "Digital Data associate executable behaviours with content",
+        "correct": false
+      },
+      {
+        "text": "Relationships between digital preservation entities",
+        "correct": true
+      },
+      {
+        "text": "Encoding in XML the metadata describing or characterizing digital objects",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "One of the main steps in SIPs is:",
+    "options": [
+      {
+        "text": "Hardware specs",
+        "correct": false
+      },
+      {
+        "text": "Validation",
+        "correct": true
+      },
+      {
+        "text": "Software licenses",
+        "correct": false
+      },
+      {
+        "text": "Creating digital objects",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Structural metadata can be defined as:",
+    "options": [
+      {
+        "text": "Metadata dealing with the provenance of a resource and its archival management",
+        "correct": false
+      },
+      {
+        "text": "Metadata that indicates how compound objects are structured, provided to support use of the objects",
+        "correct": true
+      },
+      {
+        "text": "Metadata that describes a work for purposes of discovery and identification, such as creator, title, and subject",
+        "correct": false
+      },
+      {
+        "text": "A form of administrative metadata dealing with the creation or storage encoding processes or formats of the resource",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Collaboration ensures the best use of:",
+    "options": [
+      {
+        "text": "Resources through sharing expertise and experience and by developing and building technical resources and solutions that can be shared",
+        "correct": true
+      },
+      {
+        "text": "Strategies for managing database management system",
+        "correct": false
+      },
+      {
+        "text": "Proactive process for increasing storage media",
+        "correct": false
+      },
+      {
+        "text": "Hierarchical structure of the digital object",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Proactive management demands:",
+    "options": [
+      {
+        "text": "No planning",
+        "correct": false
+      },
+      {
+        "text": "Meticulous planning",
+        "correct": true
+      },
+      {
+        "text": "Some planning",
+        "correct": false
+      },
+      {
+        "text": "Ad-hoc planning",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The DIP is:",
+    "options": [
+      {
+        "text": "Produced by taking the SIP and adding to it, if required, further information",
+        "correct": false
+      },
+      {
+        "text": "What arrives at the repository",
+        "correct": false
+      },
+      {
+        "text": "Digital object being disposed",
+        "correct": false
+      },
+      {
+        "text": "Produced when a user requests access to an object in the OAIS",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Structure Information can be defined as:",
+    "options": [
+      {
+        "text": "Describes the formats and data structures relevant for processing and rendering digital objects",
+        "correct": true
+      },
+      {
+        "text": "Develop criteria for determining what data and digital objects should be kept for the long term and then apply those criteria",
+        "correct": false
+      },
+      {
+        "text": "Provides additional information about the content of a digital object",
+        "correct": false
+      },
+      {
+        "text": "Any other kind of representation information thought necessary to interpret the digital object",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The OAIS Reference Model suggests that policies are required for:",
+    "options": [
+      {
+        "text": "Disaster recovery, and security",
+        "correct": false
+      },
+      {
+        "text": "Archival storage, Management",
+        "correct": false
+      },
+      {
+        "text": "Only archival storage",
+        "correct": false
+      },
+      {
+        "text": "Archival storage, Management, Disaster recovery, and security",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Born-digital materials is:",
+    "options": [
+      {
+        "text": "Materials created using a computer and therefore exist in a digital version",
+        "correct": true
+      },
+      {
+        "text": "The result of a process of digitizing analog materials",
+        "correct": false
+      },
+      {
+        "text": "Materials that can be used for managing the data",
+        "correct": false
+      },
+      {
+        "text": "It does not exist anymore",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "One of the key activities encompassed by Preservation Planning is:",
+    "options": [
+      {
+        "text": "Developing plans",
+        "correct": true
+      },
+      {
+        "text": "Defining Intellectual Entities",
+        "correct": false
+      },
+      {
+        "text": "Assigning Agents",
+        "correct": false
+      },
+      {
+        "text": "Allocating Rights",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OAIS is based on the concept of:",
+    "options": [
+      {
+        "text": "Actors and objects",
+        "correct": false
+      },
+      {
+        "text": "Digital creator and digital curators",
+        "correct": false
+      },
+      {
+        "text": "Standard and quality",
+        "correct": false
+      },
+      {
+        "text": "People, hardware and software",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Structured collections of records or data stored in a computer system is called:",
+    "options": [
+      {
+        "text": "Data",
+        "correct": false
+      },
+      {
+        "text": "Database Management System",
+        "correct": false
+      },
+      {
+        "text": "Database",
+        "correct": true
+      },
+      {
+        "text": "Information",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If the decision is made not to commit resources to the long-term curation of a data set or digital object, then we should:",
+    "options": [
+      {
+        "text": "No action needed",
+        "correct": false
+      },
+      {
+        "text": "Destroy digital objects",
+        "correct": true
+      },
+      {
+        "text": "Move it to archive anyway",
+        "correct": false
+      },
+      {
+        "text": "It can wait for second appraisal round",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Digital curation is:",
+    "options": [
+      {
+        "text": "A more inclusive concept than either digital archiving or digital preservation",
+        "correct": true
+      },
+      {
+        "text": "Only digital archiving",
+        "correct": false
+      },
+      {
+        "text": "Only digital preservation",
+        "correct": false
+      },
+      {
+        "text": "Data annotations and standardization",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Anyone who uses and reuses data is:",
+    "options": [
+      {
+        "text": "Data Creators",
+        "correct": false
+      },
+      {
+        "text": "Data Users and Reusers",
+        "correct": true
+      },
+      {
+        "text": "Discipline Groups",
+        "correct": false
+      },
+      {
+        "text": "Funding Bodies",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Developing a Standard for Sharing Data includes:",
+    "options": [
+      {
+        "text": "Identification of digital objects",
+        "correct": false
+      },
+      {
+        "text": "Enhancing ability to attract resources",
+        "correct": false
+      },
+      {
+        "text": "Using standard data formats for storing data only",
+        "correct": false
+      },
+      {
+        "text": "Using requirement for interoperability",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The term used to refer to the ways in which networked computing, data, and scholars work together is called:",
+    "options": [
+      {
+        "text": "Data curators",
+        "correct": false
+      },
+      {
+        "text": "Cyberscholarship",
+        "correct": true
+      },
+      {
+        "text": "Data standardization",
+        "correct": false
+      },
+      {
+        "text": "Data Security",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Two sets of activities are given for Ingest:",
+    "options": [
+      {
+        "text": "Transfer data to an archive and adhere to documented policies",
+        "correct": true
+      },
+      {
+        "text": "Develop criteria for determining what data and digital objects should be kept for the long term and then apply those criteria",
+        "correct": false
+      },
+      {
+        "text": "Determine which data sets and digital objects should be kept for the long term and which should be discarded",
+        "correct": false
+      },
+      {
+        "text": "Reappraise and dispose",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "For the Ingest action, two kinds of Information Package are important:",
+    "options": [
+      {
+        "text": "SIP and DIP",
+        "correct": false
+      },
+      {
+        "text": "DIP and AIP",
+        "correct": false
+      },
+      {
+        "text": "SIP and AIP",
+        "correct": true
+      },
+      {
+        "text": "SIP and PDI",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Good policies usually have:",
+    "options": [
+      {
+        "text": "They have guidance for Archival storage only",
+        "correct": false
+      },
+      {
+        "text": "They focus on risk mitigation",
+        "correct": false
+      },
+      {
+        "text": "They state what is and what is not allowed",
+        "correct": true
+      },
+      {
+        "text": "They provide software that supports data handling",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Implementing a regular backup procedure leads to:",
+    "options": [
+      {
+        "text": "Increase risk",
+        "correct": false
+      },
+      {
+        "text": "Reduce risk",
+        "correct": true
+      },
+      {
+        "text": "No effect",
+        "correct": false
+      },
+      {
+        "text": "Faster processes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "One solution to the challenges of digital curation is:",
+    "options": [
+      {
+        "text": "Developing standards and best practices",
+        "correct": true
+      },
+      {
+        "text": "Technology fragility",
+        "correct": false
+      },
+      {
+        "text": "Lack of understanding about what constitutes good practice",
+        "correct": false
+      },
+      {
+        "text": "Technology obsolescence",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Health check means:",
+    "options": [
+      {
+        "text": "Intensive data description",
+        "correct": false
+      },
+      {
+        "text": "Establishing standards for appraisal and selection of geospatial data",
+        "correct": false
+      },
+      {
+        "text": "Working with data creators to ensure sufficient metadata is available",
+        "correct": false
+      },
+      {
+        "text": "Actions are aimed at ensuring the quality of the data or digital objects",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "One question that policies should address regarding eligible depositors is:",
+    "options": [
+      {
+        "text": "Who is eligible to deposit data in the archive?",
+        "correct": true
+      },
+      {
+        "text": "What criteria must the data meet in terms of quality?",
+        "correct": false
+      },
+      {
+        "text": "What metadata (descriptive, structural, and administrative) should be supplied by the creator?",
+        "correct": false
+      },
+      {
+        "text": "What requirements must data creators meet regarding confidential data?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "An information package has three parts:",
+    "options": [
+      {
+        "text": "Digital object, metadata, and Packaging information",
+        "correct": true
+      },
+      {
+        "text": "Data curators, data creators, and IT personnel",
+        "correct": false
+      },
+      {
+        "text": "File format, security, and digital objects",
+        "correct": false
+      },
+      {
+        "text": "Data conceptualization, Hardware, and software",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Digitized materials are:",
+    "options": [
+      {
+        "text": "Materials created using a computer",
+        "correct": false
+      },
+      {
+        "text": "Born-digital materials",
+        "correct": false
+      },
+      {
+        "text": "Has standard formats",
+        "correct": false
+      },
+      {
+        "text": "The result of a process of digitizing analog materials",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "One of Occasional Actions is:",
+    "options": [
+      {
+        "text": "Ingest",
+        "correct": true
+      },
+      {
+        "text": "Reuse",
+        "correct": false
+      },
+      {
+        "text": "Receive",
+        "correct": false
+      },
+      {
+        "text": "Reappraise",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Protecting data means:",
+    "options": [
+      {
+        "text": "Encourage and assist data sharing and use by applying common standards",
+        "correct": false
+      },
+      {
+        "text": "Preserve data and protect them against loss and obsolescence",
+        "correct": true
+      },
+      {
+        "text": "Allow continuing access to data and improve the speed of access",
+        "correct": false
+      },
+      {
+        "text": "Assist in improving data quality, improving the trustworthiness of data",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Policies for creating and receiving digital objects includes:",
+    "options": [
+      {
+        "text": "Who is eligible to deposit data in the archive",
+        "correct": true
+      },
+      {
+        "text": "The feasibility of preservation",
+        "correct": false
+      },
+      {
+        "text": "Defining the designated funder",
+        "correct": false
+      },
+      {
+        "text": "Determining whether to keep data by evaluating them",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What requirements must data creators meet regarding confidential data is a policy related to:",
+    "options": [
+      {
+        "text": "Confidentiality and disclosure",
+        "correct": true
+      },
+      {
+        "text": "Data quality requirements",
+        "correct": false
+      },
+      {
+        "text": "Metadata",
+        "correct": false
+      },
+      {
+        "text": "Eligible depositors",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The Data Curation Continuum distinguishes three domains of activity:",
+    "options": [
+      {
+        "text": "Private, shared, public",
+        "correct": true
+      },
+      {
+        "text": "Personal, institutional, global",
+        "correct": false
+      },
+      {
+        "text": "Restricted, shared, open",
+        "correct": false
+      },
+      {
+        "text": "Local, regional, international",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of digital preservation?",
+    "options": [
+      {
+        "text": "To ensure the accessibility and usability of digital objects over time.",
+        "correct": true
+      },
+      { "text": "To improve the speed of data transfer.", "correct": false },
+      {
+        "text": "To store all data in one centralized location.",
+        "correct": false
+      },
+      { "text": "To eliminate obsolete metadata.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is a significant challenge in digital curation?",
+    "options": [
+      { "text": "Technology obsolescence.", "correct": true },
+      { "text": "Data replication.", "correct": false },
+      { "text": "Lack of internet access.", "correct": false },
+      { "text": "Increase in file sizes.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following describes metadata?",
+    "options": [
+      {
+        "text": "Data that provides information about other data.",
+        "correct": true
+      },
+      { "text": "Files stored on a hard drive.", "correct": false },
+      { "text": "Backup files of a database.", "correct": false },
+      { "text": "Compressed files for easy sharing.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the role of a data steward?",
+    "options": [
+      {
+        "text": "To manage and ensure the quality of data within an organization.",
+        "correct": true
+      },
+      { "text": "To delete redundant files.", "correct": false },
+      { "text": "To automate data backups.", "correct": false },
+      { "text": "To encrypt files for security.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the DCC Curation Lifecycle Model used for?",
+    "options": [
+      {
+        "text": "To outline stages for managing and preserving digital data.",
+        "correct": true
+      },
+      { "text": "To organize physical storage devices.", "correct": false },
+      { "text": "To enhance internet connectivity.", "correct": false },
+      { "text": "To automate metadata creation.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a phase in the DCC Curation Lifecycle?",
+    "options": [
+      { "text": "Store.", "correct": true },
+      { "text": "Connect.", "correct": false },
+      { "text": "Visualize.", "correct": false },
+      { "text": "Transmit.", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'Appraisal' involve in the context of digital curation?",
+    "options": [
+      {
+        "text": "Assessing the value and importance of data for long-term preservation.",
+        "correct": true
+      },
+      {
+        "text": "Calculating the financial cost of data storage.",
+        "correct": false
+      },
+      { "text": "Improving the quality of metadata.", "correct": false },
+      { "text": "Replicating files for backup.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is 'Data Rescue'?",
+    "options": [
+      {
+        "text": "Recovering and preserving at-risk data to make it usable.",
+        "correct": true
+      },
+      { "text": "Deleting old files to free up storage.", "correct": false },
+      { "text": "Encrypting sensitive data.", "correct": false },
+      {
+        "text": "Converting analog files to digital formats.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main objective of data security?",
+    "options": [
+      {
+        "text": "To protect data from unauthorized access and loss.",
+        "correct": true
+      },
+      { "text": "To reduce storage costs.", "correct": false },
+      { "text": "To improve internet speeds.", "correct": false },
+      { "text": "To enhance data replication.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice for digital preservation?",
+    "options": [
+      { "text": "Using open, standardized file formats.", "correct": true },
+      { "text": "Storing all data on a single device.", "correct": false },
+      { "text": "Avoiding backups to save storage space.", "correct": false },
+      { "text": "Using proprietary software exclusively.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is meant by 'Technology Obsolescence'?",
+    "options": [
+      {
+        "text": "The inability to use old technology as it becomes unsupported or outdated.",
+        "correct": true
+      },
+      { "text": "The reduction of data quality over time.", "correct": false },
+      {
+        "text": "The increase in storage requirements for older devices.",
+        "correct": false
+      },
+      { "text": "The migration of data to new systems.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which component is essential for ensuring long-term data accessibility?",
+    "options": [
+      { "text": "Metadata.", "correct": true },
+      { "text": "Compression tools.", "correct": false },
+      { "text": "Wi-Fi access.", "correct": false },
+      { "text": "High-speed internet.", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'Ingest' refer to in the DCC Curation Lifecycle?",
+    "options": [
+      {
+        "text": "The process of transferring data into a repository.",
+        "correct": true
+      },
+      { "text": "Analyzing data for quality control.", "correct": false },
+      { "text": "Encrypting data for security.", "correct": false },
+      { "text": "Removing redundant data files.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the role of 'Preservation Planning'?",
+    "options": [
+      {
+        "text": "To develop strategies to ensure long-term data preservation.",
+        "correct": true
+      },
+      { "text": "To organize physical storage devices.", "correct": false },
+      { "text": "To delete old and irrelevant data.", "correct": false },
+      { "text": "To migrate data to new hardware.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the key purpose of 'Data Reuse'?",
+    "options": [
+      {
+        "text": "To enable future users to access and apply the data effectively.",
+        "correct": true
+      },
+      { "text": "To remove duplicated files.", "correct": false },
+      { "text": "To transfer data to newer technologies.", "correct": false },
+      { "text": "To improve metadata quality.", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'Authenticity' in digital preservation refer to?",
+    "options": [
+      {
+        "text": "Ensuring that data has not been altered or tampered with.",
+        "correct": true
+      },
+      { "text": "The speed of accessing data.", "correct": false },
+      { "text": "The ability to share data widely.", "correct": false },
+      { "text": "The process of compressing data files.", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'Access' in the context of digital preservation mean?",
+    "options": [
+      {
+        "text": "The ability for users to retrieve and use preserved data.",
+        "correct": true
+      },
+      {
+        "text": "The process of encrypting files for security.",
+        "correct": false
+      },
+      { "text": "The act of removing outdated metadata.", "correct": false },
+      { "text": "The replication of files for redundancy.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following describes the 'Store' function in digital curation?",
+    "options": [
+      {
+        "text": "Maintaining secure storage of digital objects and metadata.",
+        "correct": true
+      },
+      { "text": "Transferring data to cloud storage.", "correct": false },
+      { "text": "Reducing file size through compression.", "correct": false },
+      { "text": "Analyzing data for errors.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is 'Migration' in digital preservation?",
+    "options": [
+      {
+        "text": "The process of transferring data to new file formats or storage systems.",
+        "correct": true
+      },
+      { "text": "Encrypting data for better security.", "correct": false },
+      { "text": "Archiving obsolete data.", "correct": false },
+      { "text": "Deleting duplicated files.", "correct": false }
+    ]
+  },
+  {
+    "question": "Why is 'Provenance' important in digital curation?",
+    "options": [
+      {
+        "text": "To document the history and origins of digital objects.",
+        "correct": true
+      },
+      { "text": "To enable faster retrieval of files.", "correct": false },
+      { "text": "To store data in a centralized system.", "correct": false },
+      { "text": "To reduce file sizes for sharing.", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'Fixity' in digital preservation ensure?",
+    "options": [
+      {
+        "text": "That data remains unchanged and intact over time.",
+        "correct": true
+      },
+      {
+        "text": "That data is replicated in multiple locations.",
+        "correct": false
+      },
+      { "text": "That data is compressed for storage.", "correct": false },
+      { "text": "That data is encrypted for security.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the significance of using 'Open Standards' in digital preservation?",
+    "options": [
+      {
+        "text": "To ensure long-term accessibility and interoperability of data.",
+        "correct": true
+      },
+      { "text": "To increase the speed of data transfer.", "correct": false },
+      { "text": "To reduce the size of files.", "correct": false },
+      { "text": "To enhance data encryption.", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the 'Dispose' phase in the DCC Curation Lifecycle?",
+    "options": [
+      {
+        "text": "To remove data no longer required while ensuring secure disposal.",
+        "correct": true
+      },
+      { "text": "To archive redundant data.", "correct": false },
+      { "text": "To replicate files for backups.", "correct": false },
+      { "text": "To encrypt data for confidentiality.", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a principle of good data governance?",
+    "options": [
+      {
+        "text": "Ensuring data is accurate, consistent, and reliable.",
+        "correct": true
+      },
+      { "text": "Storing all data on local hard drives.", "correct": false },
+      { "text": "Compressing files for easier sharing.", "correct": false },
+      {
+        "text": "Using only proprietary software for data management.",
+        "correct": false
+      }
+    ]
+  }
+]
