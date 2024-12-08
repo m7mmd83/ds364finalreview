@@ -25,9 +25,9 @@ fetch('questions.json')
                 const optionElem = document.createElement('label');
                 optionElem.classList.add('option-label');
                 optionElem.innerHTML = `
-          <input type="radio" name="question${index}" value="${optIndex}">
-          ${option.text}
-        `;
+                    <input type="radio" name="question${index}" data-correct="${option.correct}">
+                    ${option.text}
+                `;
                 questionDiv.appendChild(optionElem);
             });
 
@@ -52,8 +52,7 @@ fetch('questions.json')
                 resultMessage.style.display = 'block';
 
                 if (selectedOption) {
-                    const originalOptionIndex = parseInt(selectedOption.value);
-                    const isCorrect = questions[index].options[originalOptionIndex].correct;
+                    const isCorrect = selectedOption.getAttribute('data-correct') === 'true';
                     resultMessage.textContent = isCorrect ? 'Correct!' : 'Wrong!';
                     resultMessage.classList.add(isCorrect ? 'correct' : 'wrong');
                 } else {
