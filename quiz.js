@@ -51,6 +51,15 @@ fetch('questions.json')
                 const resultMessage = questionDiv.querySelector('.result-message');
                 resultMessage.style.display = 'block';
 
+                // Highlight the correct answer
+                const allOptions = questionDiv.querySelectorAll('input[type="radio"]');
+                allOptions.forEach(option => {
+                    const parentLabel = option.parentElement;
+                    if (option.getAttribute('data-correct') === 'true') {
+                        parentLabel.classList.add('correct-answer'); // Add highlight for correct answer
+                    }
+                });
+
                 if (selectedOption) {
                     const isCorrect = selectedOption.getAttribute('data-correct') === 'true';
                     resultMessage.textContent = isCorrect ? 'Correct!' : 'Wrong!';
