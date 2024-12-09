@@ -298,7 +298,7 @@
     "options": [
       {
         "text": "Actors and objects",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Digital creator and digital curators",
@@ -310,7 +310,7 @@
       },
       {
         "text": "People, hardware and software",
-        "correct": true
+        "correct": false
       }
     ]
   },
@@ -634,7 +634,7 @@
     "options": [
       {
         "text": "Ingest",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Reuse",
@@ -646,7 +646,7 @@
       },
       {
         "text": "Reappraise",
-        "correct": false
+        "correct": true
       }
     ]
   },
